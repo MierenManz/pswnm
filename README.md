@@ -1,4 +1,4 @@
 # rswnm
 Red Screen With No Music
 
-Tested on Firefox.
+Tested on Firefox, IE, Edge. 
