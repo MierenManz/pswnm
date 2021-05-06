@@ -1,4 +1,4 @@
 # mswnm
-Magenta Screen With No Music
+Dark blue Screen With No Music
 
-Tested on Firefox, IE, Edge. 
+Tested on Chrome. 
